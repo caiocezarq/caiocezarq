@@ -13,12 +13,12 @@
 
 ### 🎯 Sobre mim
 
-Product Owner com **7+ anos de experiência** em plataformas SaaS B2B de automação de força de vendas e gestão comercial, unindo visão estratégica de negócio a uma base técnica sólida (**SQL, APIs REST, integrações com grandes ERPs, AWS Cloud**).
+Product Owner com atuação em plataformas SaaS B2B de automação de força de vendas e gestão comercial, aliando gestão de produto a uma base técnica prática em **SQL, APIs REST, integrações com ERPs e nuvem (AWS)**.
 
-Atualmente expandindo minha atuação em **AI Product Management**, com foco prático em avaliação sistemática de LLMs (**AI Evals**), engenharia de prompt e construção de soluções de produto com IA generativa.
+Atualmente aprofundo minha atuação em **AI Product Management**, com foco em avaliação objetiva de modelos de linguagem (**AI Evals**), engenharia de prompt e especificação de soluções de produto com IA generativa.
 
-- 🔭 Atuo hoje como **Product Owner** na Landix Sistemas, liderando a evolução de soluções de automação comercial em todo o Brasil.
-- 🌱 Foco atual: AI Product Management, avaliação comparativa de LLMs (Qualidade × Latência × Custo), Product Discovery e PRDs técnicos.
+- 🔭 Atuo hoje como **Product Owner** na Landix Sistemas, trabalhando na evolução de soluções de automação comercial em todo o Brasil.
+- 🌱 Foco atual: AI Product Management, avaliação comparativa de LLMs, Product Discovery e especificações técnicas de produto (PRDs).
 - 🎓 Engenheiro de Computação pela **UFU** e Inglês Avançado certificado (**TOEFL ITP C1**).
 - 📫 Links: [Portfólio (`caiocezarq.github.io`)](https://caiocezarq.github.io/) · [LinkedIn](https://www.linkedin.com/in/caiocezarq/) · [Linktree](https://linktr.ee/caiocezarq) · caio.queiroz@outlook.com.br
 
@@ -36,21 +36,22 @@ Atualmente expandindo minha atuação em **AI Product Management**, com foco pr�
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **IA Aplicada & LLMs**
-![LLMs](https://img.shields.io/badge/LLMs_%26_AI_Evals-black?style=flat-square&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-FF6F00?style=flat-square&logo=google&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs_%26_AI_Evals-black?style=flat-square&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
 ### 📌 Projetos & Portfólio em Destaque
 
-- 🌐 **[caiocezarq.github.io](https://caiocezarq.github.io/)** — Portfólio interativo com *Self-Scorecard*, estudos de caso de Produto, currículo em PT/EN e certificações verificadas.
-- 🤖 **[llm-comparison-benchmark](https://github.com/caiocezarq/llm-comparison-benchmark)** — Framework próprio em Python para avaliação comparativa de LLMs — modelos proprietários (**Gemini**) vs. open-weight (**LLaMA 3, Qwen 3, GPT-OSS**) — combinando `BERTScore`, `ROUGE`, `BLEU`, `MMLU`, `HellaSwag` e `EvidentlyAI` para embasar decisões de produto.
+- 🌐 **[caiocezarq.github.io](https://caiocezarq.github.io/)**: Portfólio interativo com *Self-Scorecard*, estudos de caso de Produto, currículo em PT/EN e certificações verificadas.
+- 🤖 **[llm-comparison-benchmark](https://github.com/caiocezarq/llm-comparison-benchmark)**: Framework em Python para avaliação comparativa de LLMs (modelos proprietários e open-weight) combinando `BERTScore`, `ROUGE`, `BLEU`, `MMLU`, `HellaSwag` e `EvidentlyAI`.
+- 📋 **[product-prds](https://github.com/caiocezarq/product-prds)**: Especificações de produto (PRDs) voltadas para SaaS B2B, automação de força de vendas, integrações com ERPs e aplicação de IA.
 
 ---
 
 ### 📜 Certificações Verificadas
 
-- [AI for Product Management](https://www.credly.com/badges/c7aa65c8-5c2d-4eb7-9376-982b42160b48) — **Pendo** (2026)
-- [Scrum Foundation Professional Certification (SFPC™)](https://www.credly.com/badges/67b080f3-25f2-41c7-b94a-610db9a120ba) — **Certiprof** (2024)
+- [AI for Product Management](https://www.credly.com/badges/c7aa65c8-5c2d-4eb7-9376-982b42160b48) · **Pendo** (2026)
+- [Scrum Foundation Professional Certification (SFPC™)](https://www.credly.com/badges/67b080f3-25f2-41c7-b94a-610db9a120ba) · **Certiprof** (2024)
 
 Veja todas as credenciais verificadas em [credly.com/users/caiocezarq](https://www.credly.com/users/caiocezarq).
 
