@@ -41,7 +41,7 @@ Atualmente aprofundo minha atuação em **AI Product Management**, com foco na e
 ### Projetos & Portfólio em Destaque
 
 - 🌐 **[caiocezarq.github.io](https://caiocezarq.github.io/)**: Portfólio profissional com estudos de caso de decisão de produto, trajetória em SaaS B2B, currículos em PT/EN e credenciais verificadas.
-- 📋 **[product-prds](https://github.com/caiocezarq/product-prds)**: Especificações técnicas de produto (PRDs) voltadas para SaaS B2B, automação de força de vendas, regras de negócio de ERPs e aplicação prática de IA.
+- 📋 **[product-prds](https://github.com/caiocezarq/product-prds)**: Especificações técnicas de produto (PRDs) e **[protótipo funcional navegável](https://caiocezarq.github.io/product-prds/prototype/)** voltados para SaaS B2B, automação de força de vendas, regras de negócio de ERPs e aplicação prática de IA.
 - 🤖 **[llm-comparison-benchmark](https://github.com/caiocezarq/llm-comparison-benchmark)**: Framework modular em Python para comparação objetiva entre modelos de linguagem (proprietários e open-weight), avaliando qualidade de resposta, benchmarks padronizados e geração de rankings normalizados.
 
 ---
